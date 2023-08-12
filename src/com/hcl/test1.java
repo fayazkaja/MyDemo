@@ -11,7 +11,4 @@ public class test1 {
 	private void method3() {
 		System.out.println("Method3");
 	}
-	private void method4() {
-		System.out.println("Method4");
-	}
 }
